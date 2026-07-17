@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FocusFlow" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/zinc_950</item>
+        <item name="colorPrimary">@color/yellow_400</item>
+        <item name="colorAccent">@color/yellow_400</item>
+        <item name="android:statusBarColor">@color/zinc_950</item>
+        <item name="android:textColorPrimary">@color/zinc_200</item>
+    </style>
+
+    <style name="Theme.FocusFlow.Alarm" parent="Theme.FocusFlow">
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

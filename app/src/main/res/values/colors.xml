@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zinc_950">#09090B</color>
+    <color name="zinc_900">#18181B</color>
+    <color name="zinc_800">#27272A</color>
+    <color name="zinc_400">#A1A1AA</color>
+    <color name="zinc_200">#E4E4E7</color>
+    <color name="yellow_400">#FACC15</color>
+    <color name="blue_500">#3B82F6</color>
+    <color name="emerald_400">#34D399</color>
+    <color name="red_500">#EF4444</color>
+</resources>
